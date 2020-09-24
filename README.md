@@ -1,4 +1,4 @@
-# [DataCamp: Machine Learning Scientist with Python Career Track](https://learn.datacamp.com/career-tracks/machine-learning-scientist-with-python?version=1)
+# [DataCamp: Machine Learning Scientist with Python Career Track](https://www.datacamp.com/tracks/machine-learning-scientist-with-python)
 
 ### Supervised Learning with scikit-learn
   1. [Classification/MNIST](https://github.com/loujoseftan/DCML/blob/master/course1-classification-mnist.ipynb)
